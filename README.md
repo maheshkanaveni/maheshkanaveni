@@ -1,82 +1,79 @@
-<!-- Header -->
 <h1 align="center">Hi, I'm Mahesh Kanaveni 👋</h1>
-<h3 align="center">AWS DevOps Engineer | Cloud Infrastructure & CI/CD Automation Specialist</h3>
+<h3 align="center">AWS DevOps Engineer | Cloud Infrastructure & CI/CD Automation | Kubernetes · Terraform</h3>
 
-<!-- About Me -->
-## 🚀 About Me
-
-I am a passionate DevOps Engineer with 4 years of experience designing, automating, and scaling cloud infrastructure. I thrive on bridging the gap between development and operations to build robust, secure, and highly available systems.
-
-- 🔭 I specialize in **AWS, Kubernetes, and Infrastructure as Code (Terraform)**.
-- 📈 I have a proven track record of reducing deployment times by 50% and improving application availability.
-- 🤖 Passionate about automating everything from infrastructure provisioning to security scanning and monitoring.
-- 🎓 Holding a B.Tech in Mechanical Engineering, bringing a unique problem-solving perspective to complex cloud environments.
-
----
-
-<!-- Tech Stack -->
-## 🛠️ Tech Stack
-
-### **Languages**
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### **Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-
-### **Containers & Orchestration**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
-
-### **CI/CD & Automation**
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/argocd-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)
-
-### **Monitoring & Security**
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
-![Trivy](https://img.shields.io/badge/Trivy-1908E0?style=for-the-badge&logo=trivy&logoColor=white)
-
----
-
-<!-- Current Focus -->
-## 🔭 Current Focus
-- **GitOps & Advanced Deployments:** Currently building a fully automated GitOps pipeline using **ArgoCD** on **AWS EKS** to implement canary and rolling releases with automatic rollbacks.
-- **Academic Research:** Exploring the intersection of AI and sustainable energy for my Master's degree, applying data-driven methodologies to Electric Vehicle (EV) infrastructure.
-- **Open Source:** Actively contributing to DevOps tooling and sharing insights on Kubernetes best practices.
-
----
-
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheshkanaveni20&show_icons=true&theme=radical" alt="Mahesh's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshkanaveni20&theme=radical" alt="Mahesh's GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkanaveni20&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/DevOps-4%2B%20Years-2496ED?style=for-the-badge&logo=devbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to-DevOps%20Roles-success?style=for-the-badge" />
 </p>
 
 ---
 
-<!-- Connect with Me -->
-## 🤝 Connect with Me
+### 🧠 About Me
 
-I'm always open to collaborating on interesting DevOps projects, discussing cloud architecture, or simply connecting with fellow tech enthusiasts.
+- 🔧 DevOps Engineer with 4+ years building and running AWS infrastructure for production systems at **UBS** and **ITC Infotech**
+- ⚙️ Deep hands-on work across **Kubernetes (EKS/KOPS), Terraform, Jenkins/GitHub Actions/GitLab CI**, cutting deployment failures ~30% and provisioning effort ~60%
+- 📊 Built monitoring & alerting stacks (CloudWatch, Prometheus, Grafana) that brought incident response time down ~45%
+- 💰 Track record of trimming cloud spend (~25%) through rightsizing, autoscaling, and cleanup of unused resources
+
+---
+
+### 🛠️ Tech Stack
+
+**☁️ Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**📦 Containers & Orchestration**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+
+**🔁 CI/CD & Automation**
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+**📈 Monitoring & Security**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
+
+**💻 Scripting & OS**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 🚀 Current Focus
+
+- 🏗️ Deepening GitOps practice — running a full **EKS + ArgoCD** pipeline with canary releases and automatic rollback
+- 📚 Sharpening AWS cost-optimization and Kubernetes reliability patterns for production-scale workloads
+- 🔍 Actively looking for **AWS DevOps / Cloud Infrastructure / Platform Engineer** roles
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://linkedin.com/in/maheshkanaveni3821">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:maheshkanaveni20@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=maheshkanaveni25&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkanaveni25&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">💻 “Automate the boring stuff, and always deploy with confidence.”</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshkanaveni25&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+- 📧 **Email:** [maheshkanaveni20@gmail.com](mailto:maheshkanaveni20@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/maheshkanaveni3821](https://linkedin.com/in/maheshkanaveni3821)
+- 📍 **Location:** Hyderabad, India
+
+<p align="center"><i>Building infrastructure that stays boring — in the good way.</i></p>
